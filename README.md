@@ -1,11 +1,20 @@
-# Quantitative-Trading-For-Beginners
-A series of courses offered by Quantra.
-Covers
-* Get a complete picture of the domain, including the what, how, why of algorithmic trading.
-* Use Python data structures to handle financial data and generate trading signals.
-* Understand options trading and create strategies using Python.
-* Explain the different types of machine learning algorithms and how they are used in trading.
-* Create a momentum trading strategy using real Forex markets data in Python.
-* Practice questions to crack a quant interview.
-* Compute financial ratios such as return on equity, price to earnings, price to book value and analyze the long-term trend in revenue and PE ratio.
-* Fetch market and pricing data for stocks, stock indices, FX, Crypto and Futures.
+# Quantitative Trading for Beginners
+
+Notes from **Quantra's *Quantitative Trading for Beginners*** learning track, a series of introductory courses on algorithmic and quantitative trading in Python.
+
+## Course coverage
+
+- **Algo trading foundations:** the what, how and why of algorithmic trading
+- **Python for trading:** using Python data structures to handle financial data and generate trading signals
+- **Options:** options trading and building option strategies in Python
+- **Machine learning:** the main types of ML algorithms and how they are applied in trading
+- **Momentum:** building a momentum strategy on real FX market data
+- **Fundamentals:** computing ROE, P/E and P/B, and analysing long-term trends in revenue and P/E
+- **Market data:** fetching pricing data for stocks, indices, FX, crypto and futures
+- **Interview prep:** practice questions for quant interviews
+
+## Contents
+
+| Folder | Status |
+|---|---|
+| `python_for_trading_basics/` | Notes in progress |
